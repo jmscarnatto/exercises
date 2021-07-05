@@ -1,8 +1,8 @@
 ## Exercises
 
-### Multiply two numbers without using mutiplication operator
+### 1) Multiply two numbers without using mutiplication operator
 
-### Detect the biggest number in a array iterating only once.
+### 2) Detect the biggest number in a array iterating only once.
 
 ### Clear from an array undefiened, false, null and zero values iteratirng only once.
 
