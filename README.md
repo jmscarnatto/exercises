@@ -4,7 +4,7 @@
 
 ### 2) Detect the biggest number in a array iterating only once.
 
-### 3) Clear from an array undefiened, false, null and zero values iteratirng only once.
+### 3) Clear from an array undefined, false, null and zero values iteratirng only once.
 
 ### 4) Realtime quizz system
     1) All participants start the quizz at the same time
